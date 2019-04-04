@@ -1,0 +1,7 @@
+https://mybinder.org/v2/gh/shakaibsaleem/DataScience/master?filepath=CS457-CaseStudy-2%2Fnotebook.ipynb
+
+https://mybinder.org
+
+cc_apps_description = summary(cc_apps)
+display(cc_apps_description)
+
